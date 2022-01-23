@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clembnl
-- 👀 I’m interested in website and web application development
-- 🌱 I’m currently learning Back-end development in Java (Spring)
+- 👀 I’m interested in backend development, website and web application
+- 🌱 I’m currently learning more about Vue.js
 - 💞️ I’m looking to collaborate on Rest API and web application
 - 📫 How to reach me : cl.bonal@free.fr
 
