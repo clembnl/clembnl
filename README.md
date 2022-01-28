@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clément Bonal
 - 👀 I’m interested in backend development, website and web application
 - 🌱 I’m currently learning more about Vue.js
-- 💞️ I’m looking to collaborate on Rest API and web application
+- 💞️ I’m looking to collaborate on web services / microservices (Rest API) and web application
 - 📫 How to reach me : cl.bonal@free.fr
 
 <!---
