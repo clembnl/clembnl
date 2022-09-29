@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clément Bonal
-- 👀 I’m interested in backend development, website and web application
-- 🌱 I’m currently learning more about node.js and express for backend
-- 💞️ I’m looking to collaborate on web services / microservices (Rest API) and web application
+- 👀 I’m interested in backend development, web and mobile application
+- 🌱 I’m currently learning more about iOS development
+- 💞️ I’m looking to collaborate on web services / microservices (Rest API) and web / mobile application
 - 📫 How to reach me : cl.bonal@free.fr
 
 <!---
