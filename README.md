@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clément Bonal
 - 👀 I’m interested in backend development, web and mobile application
-- 🌱 I’m currently learning more about data engineering
+- 🌱 I’m currently learning more about algorithms
 - 💞️ I’m looking to collaborate on web services / microservices (Rest API) and web / mobile application
 - 📫 How to reach me : cl.bonal@free.fr
 
