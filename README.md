@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clément Bonal
 - 👀 I’m interested in backend development, web and ai
-- 🌱 I’m currently learning more about Machine Learning and Quasar
-- 💞️ I’m looking to collaborate on web services / microservices (Rest API) and web / mobile application
+- 🌱 I’m currently learning more about Machine Learning
+- 💞️ I’m happy to collaborate on web services / microservices (Rest API) and web / mobile application
 - 📫 How to reach me : cl.bonal@free.fr
 
 <!---
